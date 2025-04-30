@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://vv4ea1-i3.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://vv4ea1-i3.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://vv4ea1-i3.myshopify.com/collections/all.atom"/>
+  <title>Indulgent Butters</title>
+  <updated>2025-04-29T18:40:01+05:30</updated>
+  <author>
+    <name>Indulgent Butters</name>
+  </author>
+  <entry>
+    <id>https://vv4ea1-i3.myshopify.com/products/9097206857973</id>
+    <published>2025-04-29T18:40:01+05:30</published>
+    <updated>2025-04-29T18:40:01+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://vv4ea1-i3.myshopify.com/products/gift-card-premium"/>
+    <title>Gift Card Premium</title>
+    <s:type>Gift Card</s:type>
+    <s:vendor>Indulgent Butters</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0748/7134/1301/files/image_2025-04-29_183417603.png?v=1745931860"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Indulgent Butters<br>
+        <strong>Type: </strong>Gift Card<br>
+        <strong>Price: </strong>
+            200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gift Card By Indulgent Butters</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vv4ea1-i3.myshopify.com/products/9097206857973</id>
+      <title>Default Title</title>
+      <s:price currency="USD">200.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vv4ea1-i3.myshopify.com/products/9097205809397</id>
+    <published>2025-04-29T18:33:29+05:30</published>
+    <updated>2025-04-29T18:33:29+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://vv4ea1-i3.myshopify.com/products/gift-card"/>
+    <title>Gift Card</title>
+    <s:type>Gift Card</s:type>
+    <s:vendor>Indulgent Butters</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0748/7134/1301/files/image_2025-04-29_183417603.png?v=1745931860"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Indulgent Butters<br>
+        <strong>Type: </strong>Gift Card<br>
+        <strong>Price: </strong>
+            100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gift Card By Indulgent Butters</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vv4ea1-i3.myshopify.com/products/9097205809397</id>
+      <title>Default Title</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vv4ea1-i3.myshopify.com/products/9097195847925</id>
+    <published>2025-04-29T18:01:33+05:30</published>
+    <updated>2025-04-29T18:01:33+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://vv4ea1-i3.myshopify.com/products/mugs"/>
+    <title>Mugs</title>
+    <s:type>Cups</s:type>
+    <s:vendor>Indulgent Butters</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0748/7134/1301/files/WhatsAppImage2025-04-29at5.48.51PM_2_9c451891-463d-4814-a2e9-331f7bcd353e.jpg?v=1745929826"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Indulgent Butters<br>
+        <strong>Type: </strong>Cups<br>
+        <strong>Price: </strong>
+            13.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Introducing our durable, high-quality mugs. Made from premium materials, these mugs are designed to last and keep your beverages at the perfect temperature. With a sleek and elegant design, these mugs are perfect for any beverage and make a great addition to any kitchen.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vv4ea1-i3.myshopify.com/products/9097195847925</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vv4ea1-i3.myshopify.com/products/9097195323637</id>
+    <published>2025-04-29T17:53:35+05:30</published>
+    <updated>2025-04-29T17:53:35+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://vv4ea1-i3.myshopify.com/products/cups"/>
+    <title>Cups</title>
+    <s:type>Cups</s:type>
+    <s:vendor>Indulgent Butters</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0748/7134/1301/files/WhatsAppImage2025-04-29at5.48.51PM_1.jpg?v=1745929360"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Indulgent Butters<br>
+        <strong>Type: </strong>Cups<br>
+        <strong>Price: </strong>
+            13.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Enhance the taste of your meals with our Cups butter and margarine. Made from high-quality ingredients, these products provide a rich and creamy flavor to your dishes. With a perfect blend of butter and margarine, your meals will have a perfect balance of taste and nutrition. Try it today and elevate your cooking game.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vv4ea1-i3.myshopify.com/products/9097195323637</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vv4ea1-i3.myshopify.com/products/9097195159797</id>
+    <published>2025-04-29T17:50:50+05:30</published>
+    <updated>2025-04-29T17:50:50+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://vv4ea1-i3.myshopify.com/products/almond-butter"/>
+    <title>Almond Butter</title>
+    <s:type>Almond Butter</s:type>
+    <s:vendor>Indulgent Butters</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0748/7134/1301/files/WhatsApp_Image_2025-04-29_at_6.19.46_PM.jpg?v=1745931042"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Indulgent Butters<br>
+        <strong>Type: </strong>Almond Butter<br>
+        <strong>Price: </strong>
+            13.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Experience the creamy and rich taste of our 100% pure Almond Butter. Made from the finest almonds, it's a delicious and nutritious spread for your toast, smoothies, or baking needs. High in protein and healthy fats, it's a great addition to your diet. Try it today and indulge in the goodness of almonds! </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vv4ea1-i3.myshopify.com/products/9097195159797</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vv4ea1-i3.myshopify.com/products/9097187688693</id>
+    <published>2025-04-29T17:28:13+05:30</published>
+    <updated>2025-04-29T17:28:13+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://vv4ea1-i3.myshopify.com/products/candy-topping-peanut-butter-4"/>
+    <title>Almond Butter</title>
+    <s:type>Almond Butter</s:type>
+    <s:vendor>Indulgent Butters</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0748/7134/1301/files/Gemini_Generated_Image_4atvnk4atvnk4atv.jpg?v=1745927853"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Indulgent Butters<br>
+        <strong>Type: </strong>Almond Butter<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Almond Butter is a delicious and nutritious spread made from 100% natural almonds. Packed with healthy fats, fiber, and protein, it's perfect for a quick and satisfying snack or addition to your meals. With no added sugars or preservatives, it's a guilt-free option for any lifestyle. Enjoy the delicious taste and numerous health benefits of our Almond Butter today!</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vv4ea1-i3.myshopify.com/products/9097187688693</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vv4ea1-i3.myshopify.com/products/9096093401333</id>
+    <published>2025-04-28T19:53:12+05:30</published>
+    <updated>2025-04-28T19:53:12+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://vv4ea1-i3.myshopify.com/products/candy-topping-peanut-butter-3"/>
+    <title>Candy Topping Peanut Butter</title>
+    <s:type>Candy Topping Peanut Butter</s:type>
+    <s:vendor>Indulgent Butters</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0748/7134/1301/files/attachment_148851166_6e0797d6-24f1-43e9-81ba-64a19b505cbe.jpg?v=1745850142"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Indulgent Butters<br>
+        <strong>Type: </strong>Candy Topping Peanut Butter<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Elevate your dessert game with our Candy Topping Peanut Butter. Made with real peanuts, it adds a creamy and nutty flavor to any treat. Plus, it's a great source of protein, making it a delicious and nutritious choice for any sweet indulgence. Get ready to take your taste buds on a delicious adventure!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vv4ea1-i3.myshopify.com/products/9096093401333</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vv4ea1-i3.myshopify.com/products/9096089239797</id>
+    <published>2025-04-28T19:51:15+05:30</published>
+    <updated>2025-04-28T19:51:15+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://vv4ea1-i3.myshopify.com/products/candy-topping-peanut-butter-2"/>
+    <title>Candy Topping Peanut Butter</title>
+    <s:type>Candy Topping Peanut Butter</s:type>
+    <s:vendor>Indulgent Butters</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0748/7134/1301/files/attachment_149070569.jpg?v=1745850043"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Indulgent Butters<br>
+        <strong>Type: </strong>Candy Topping Peanut Butter<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This Candy Topping Peanut Butter is the perfect addition to your favorite ice cream, cookies or cupcakes. Made with fresh and creamy peanut butter, this topping adds a rich and delicious flavor to any dessert. Elevate your treats with this irresistible addition.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vv4ea1-i3.myshopify.com/products/9096089239797</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vv4ea1-i3.myshopify.com/products/9096086094069</id>
+    <published>2025-04-28T19:50:03+05:30</published>
+    <updated>2025-04-28T19:50:03+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://vv4ea1-i3.myshopify.com/products/candy-topping-peanut-butter-1"/>
+    <title>Candy Topping Peanut Butter</title>
+    <s:type>Candy Topping Peanut Butter</s:type>
+    <s:vendor>Indulgent Butters</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0748/7134/1301/files/attachment_149036382.jpg?v=1745849932"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Indulgent Butters<br>
+        <strong>Type: </strong>Candy Topping Peanut Butter<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Made with creamy peanut butter, our Candy Topping Peanut Butter is the perfect addition to any dessert. With its rich flavor and smooth texture, you can enhance your sweet treats with a delicious touch of nutty goodness. Elevate your desserts to the next level with our Candy Topping Peanut Butter.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vv4ea1-i3.myshopify.com/products/9096086094069</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vv4ea1-i3.myshopify.com/products/9096083833077</id>
+    <published>2025-04-28T19:48:09+05:30</published>
+    <updated>2025-04-28T19:48:09+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://vv4ea1-i3.myshopify.com/products/candy-topping-peanut-butter"/>
+    <title>Candy Topping Peanut Butter</title>
+    <s:type>Candy Topping Peanut Butter</s:type>
+    <s:vendor>Indulgent Butters</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0748/7134/1301/files/attachment_148851108.jpg?v=1745849757"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Indulgent Butters<br>
+        <strong>Type: </strong>Candy Topping Peanut Butter<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>As a delicious, creamy blend of rich, roasted peanuts and sweet, tantalizing candy flavors, Candy Topping Peanut Butter is the perfect addition to your dessert spread. With a smooth consistency and indulgent taste, this topping will enhance any treat with a touch of nutty sweetness. Satisfy your cravings with Candy Topping Peanut Butter.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vv4ea1-i3.myshopify.com/products/9096083833077</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
